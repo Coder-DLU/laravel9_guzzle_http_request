@@ -265,6 +265,7 @@ class PostController extends Controller
     }
 }
 ```
+- output
 
 ![Container](a3.png)
 
